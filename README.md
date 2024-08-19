@@ -1,4 +1,7 @@
 # Hybrid VAE-GAN Architecture for Artistic Style Transfer
+This project builds a novel hybrid VAE-GAN method for image-to-sketch style transfer and modifies the generator, discriminator, encoder and the training procedure to generate good sketches from the corresponding images of the person.
+
+This README file provides brief instructions about how to set up the `Hybrid Architecture` package and reproduce the project results. 
 
 ## Architecture
 <p align="center">
@@ -8,9 +11,7 @@
 This package provides reference implementation of the `Hybrid VAE-GAN Architecture for Artistic Style Transfer`
 [paper][].
 
-This paper builds a novel hybrid VAE-GAN method for image to sketch style transfer and modifies the generator, discriminator, encoder and the training procedure to generate good sketches from the corresponding images of the person.
 
-This README file provides brief instructions about how to set up the `Hybrid Architecture` package and reproduce the paper results. 
 
 The code of `Hybrid Architecture` is based on [Hybrid GAN for COVID](https://github.com/Shorya-Sharma/COVID-GAN-Augmenting-COVID-19-Diagnostic-Data-using-Hybrid-VAE-GANs/tree/main).Please refer to the LICENSE section for the proper copyright attribution.
 
