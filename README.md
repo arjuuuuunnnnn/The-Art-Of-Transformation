@@ -2,7 +2,7 @@
 
 ## Architecture
 <p align="center">
-  <img src="All-Notebooks/hybrid-gan-vae.drawio.png">
+  <img src="images/hybrid-gan-vae.png">
 </p>
 
 This package provides reference implementation of the `Hybrid VAE-GAN Architecture for Artistic Style Transfer`
