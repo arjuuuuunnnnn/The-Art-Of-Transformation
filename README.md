@@ -130,6 +130,13 @@ You just need to run all the cells.
 
 For more specific questions, please refer to the documentation within the notebook or raise an issue in the GitHub repository.
 
+## Contributors
+- [@arjuuuuunnnnn](https://github.com/arjuuuuunnnnn)
+- [@atheek2003](https://github.com/atheek2003)
+- [@BRArjun](https://github.com/BRArjun)
+- [@bcsamrudh](https://github.com/bcsamrudh)
+- [@Arvinnooli](https://github.com/Arvinnooli)
+
 ## LICENSE
 
 MIT License.
