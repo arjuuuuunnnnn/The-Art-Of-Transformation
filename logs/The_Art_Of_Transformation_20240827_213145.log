@@ -1,0 +1,18 @@
+2024-08-27 21:31:45,478 - The_Art_Of_Transformation - INFO - Downloading dataset: arbazkhan971/cuhk-face-sketch-database-cufs
+2024-08-27 21:32:09,739 - The_Art_Of_Transformation - INFO - Successfully preprocessed image from Tensor("args_0:0", shape=(), dtype=string)
+2024-08-27 21:32:10,449 - The_Art_Of_Transformation - INFO - Downsample layer created with 32 filters and size 4
+2024-08-27 21:32:10,511 - The_Art_Of_Transformation - INFO - Downsample layer created with 64 filters and size 4
+2024-08-27 21:32:10,530 - The_Art_Of_Transformation - INFO - Downsample layer created with 128 filters and size 4
+2024-08-27 21:32:10,550 - The_Art_Of_Transformation - INFO - Downsample layer created with 256 filters and size 4
+2024-08-27 21:32:10,620 - The_Art_Of_Transformation - INFO - Encoder model built
+2024-08-27 21:32:10,627 - The_Art_Of_Transformation - INFO - Upsample layer created with 256 filters and size 4
+2024-08-27 21:32:10,692 - The_Art_Of_Transformation - INFO - Upsample layer created with 128 filters and size 4
+2024-08-27 21:32:10,737 - The_Art_Of_Transformation - INFO - Upsample layer created with 64 filters and size 4
+2024-08-27 21:32:10,782 - The_Art_Of_Transformation - INFO - Upsample layer created with 32 filters and size 4
+2024-08-27 21:32:10,828 - The_Art_Of_Transformation - INFO - Generator model built
+2024-08-27 21:32:10,832 - The_Art_Of_Transformation - INFO - Downsample layer created with 64 filters and size 4
+2024-08-27 21:32:10,852 - The_Art_Of_Transformation - INFO - Downsample layer created with 128 filters and size 4
+2024-08-27 21:32:10,887 - The_Art_Of_Transformation - INFO - Downsample layer created with 256 filters and size 4
+2024-08-27 21:32:10,909 - The_Art_Of_Transformation - INFO - Downsample layer created with 512 filters and size 4
+2024-08-27 21:32:10,960 - The_Art_Of_Transformation - INFO - Discriminator model built
+2024-08-27 21:32:10,969 - The_Art_Of_Transformation - INFO - Starting epoch 1/1

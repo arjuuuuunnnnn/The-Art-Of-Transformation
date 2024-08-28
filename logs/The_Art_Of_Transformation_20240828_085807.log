@@ -1,0 +1,22 @@
+2024-08-28 08:58:07,808 - The_Art_Of_Transformation - INFO - Downloading dataset: arbazkhan971/cuhk-face-sketch-database-cufs
+2024-08-28 08:58:27,900 - The_Art_Of_Transformation - INFO - Successfully preprocessed image from Tensor("args_0:0", shape=(), dtype=string)
+2024-08-28 08:58:28,641 - The_Art_Of_Transformation - INFO - Downsample layer created with 32 filters and size 4
+2024-08-28 08:58:28,643 - The_Art_Of_Transformation - INFO - Downsample layer created with 64 filters and size 4
+2024-08-28 08:58:28,646 - The_Art_Of_Transformation - INFO - Downsample layer created with 128 filters and size 4
+2024-08-28 08:58:28,649 - The_Art_Of_Transformation - INFO - Downsample layer created with 256 filters and size 4
+2024-08-28 08:58:28,650 - The_Art_Of_Transformation - INFO - Encoder model built
+2024-08-28 08:58:28,651 - The_Art_Of_Transformation - INFO - Building Generator Model
+2024-08-28 08:58:28,674 - The_Art_Of_Transformation - INFO - Upsample layer created with 256 filters and size 4
+2024-08-28 08:58:28,781 - The_Art_Of_Transformation - INFO - Upsample layer created with 128 filters and size 4
+2024-08-28 08:58:28,830 - The_Art_Of_Transformation - INFO - Upsample layer created with 64 filters and size 4
+2024-08-28 08:58:28,878 - The_Art_Of_Transformation - INFO - Upsample layer created with 32 filters and size 4
+2024-08-28 08:58:28,926 - The_Art_Of_Transformation - INFO - Generator model built
+2024-08-28 08:58:28,937 - The_Art_Of_Transformation - INFO - Generator model summary: None
+2024-08-28 08:58:28,937 - The_Art_Of_Transformation - ERROR - Generator model is None after build
+2024-08-28 08:58:28,940 - The_Art_Of_Transformation - INFO - Downsample layer created with 64 filters and size 4
+2024-08-28 08:58:28,959 - The_Art_Of_Transformation - INFO - Downsample layer created with 128 filters and size 4
+2024-08-28 08:58:28,994 - The_Art_Of_Transformation - INFO - Downsample layer created with 256 filters and size 4
+2024-08-28 08:58:29,016 - The_Art_Of_Transformation - INFO - Downsample layer created with 512 filters and size 4
+2024-08-28 08:58:29,080 - The_Art_Of_Transformation - INFO - Discriminator model built
+2024-08-28 08:58:29,089 - The_Art_Of_Transformation - INFO - Starting epoch 1/1
+2024-08-28 08:58:29,446 - The_Art_Of_Transformation - ERROR - Generator model is None in call method
