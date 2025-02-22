@@ -1,4 +1,4 @@
-# Hybrid VAE-GAN Architecture for Artistic Style Transfer
+# Metamorphosis of Photorealistic Images to Pencil Sketch using a Hybrid GAN-VAE Architecture
 
 ## Architecture
 <p align="center">
@@ -6,7 +6,8 @@
 </p>
 
 This package provides reference implementation of the `Hybrid VAE-GAN Architecture for Artistic Style Transfer`
-[paper][].
+[paper][]. published at 
+##### `9th International Conference on Information and Communication Technology for Competitive Strategies, 2024`
 
 This paper builds a novel hybrid VAE-GAN method for image to sketch style transfer and modifies the generator, discriminator, encoder and the training procedure to generate good sketches from the corresponding images of the person.
 
